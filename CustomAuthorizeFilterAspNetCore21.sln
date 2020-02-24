@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomAuthorizeFilterAspNetCore21", "CustomAuthorizeFilterAspNetCore21\CustomAuthorizeFilterAspNetCore21.csproj", "{D59FED28-D0D9-4D30-8B8E-B3F029A808A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D59FED28-D0D9-4D30-8B8E-B3F029A808A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59FED28-D0D9-4D30-8B8E-B3F029A808A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59FED28-D0D9-4D30-8B8E-B3F029A808A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59FED28-D0D9-4D30-8B8E-B3F029A808A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1BEF3C1-AFE5-4E11-9C80-46AA934CF37E}
+	EndGlobalSection
+EndGlobal
